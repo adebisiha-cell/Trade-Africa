@@ -1,0 +1,6 @@
+<!-- PLACEHOLDER: replace with Trade Africa's real uploaded logo file before launch (see spec §2, Logo & Existing Assets). This wordmark exists only so /assets/logo.svg referenced in Organization schema resolves. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80">
+  <rect width="320" height="80" fill="#0C3D28"/>
+  <text x="20" y="48" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="30" fill="#FFFFFF">Trade <tspan fill="#C99A2E">Africa</tspan></text>
+  <path d="M22 60 A 140 140 0 0 1 300 60" fill="none" stroke="#C99A2E" stroke-width="2"/>
+</svg>
