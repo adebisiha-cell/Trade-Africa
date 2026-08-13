@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://tradeafrica.lovable.app/sitemap.xml
