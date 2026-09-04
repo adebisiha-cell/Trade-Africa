@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tradeafrica.example/</loc>
+    <loc>https://trade-africa.netlify.app/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/about/about.html</loc>
+    <loc>https://trade-africa.netlify.app/about/about.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/guide/guide.html</loc>
+    <loc>https://trade-africa.netlify.app/guide/guide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/workshop/workshop.html</loc>
+    <loc>https://trade-africa.netlify.app/workshop/workshop.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/partners/partners.html</loc>
+    <loc>https://trade-africa.netlify.app/partners/partners.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/community/community.html</loc>
+    <loc>https://trade-africa.netlify.app/community/community.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/contact/contact.html</loc>
+    <loc>https://trade-africa.netlify.app/contact/contact.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/guide/what-is-afcfta/what-is-afcfta.html</loc>
+    <loc>https://trade-africa.netlify.app/guide/what-is-afcfta/what-is-afcfta.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/guide/afcfta-for-your-business/afcfta-for-your-business.html</loc>
+    <loc>https://trade-africa.netlify.app/guide/afcfta-for-your-business/afcfta-for-your-business.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/guide/rules-of-origin/rules-of-origin.html</loc>
+    <loc>https://trade-africa.netlify.app/guide/rules-of-origin/rules-of-origin.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/guide/certificate-of-origin/certificate-of-origin.html</loc>
+    <loc>https://trade-africa.netlify.app/guide/certificate-of-origin/certificate-of-origin.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/guide/agro-export-compliance/agro-export-compliance.html</loc>
+    <loc>https://trade-africa.netlify.app/guide/agro-export-compliance/agro-export-compliance.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/guide/simplified-trade-regime/simplified-trade-regime.html</loc>
+    <loc>https://trade-africa.netlify.app/guide/simplified-trade-regime/simplified-trade-regime.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/guide/national-single-window/national-single-window.html</loc>
+    <loc>https://trade-africa.netlify.app/guide/national-single-window/national-single-window.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/guide/cross-border-payments/cross-border-payments.html</loc>
+    <loc>https://trade-africa.netlify.app/guide/cross-border-payments/cross-border-payments.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/guide/export-checklist/export-checklist.html</loc>
+    <loc>https://trade-africa.netlify.app/guide/export-checklist/export-checklist.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tradeafrica.example/guide/faq/faq.html</loc>
+    <loc>https://trade-africa.netlify.app/guide/faq/faq.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

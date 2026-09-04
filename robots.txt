@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tradeafrica.example/sitemap.xml
+Sitemap: https://trade-africa.netlify.app/sitemap.xml

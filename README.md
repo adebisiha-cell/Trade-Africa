@@ -109,7 +109,7 @@ vercel --prod
 
 ## Before going live — remaining placeholder
 
-- **`SITE_URL`** — currently `https://tradeafrica.example` in `sitemap.xml` and every page's JSON-LD. Swap for the real production domain once you have it.
+- **`SITE_URL`** — `https://trade-africa.netlify.app` is used in `sitemap.xml` and every page's JSON-LD.
 
 ## SEO / structured data
 
